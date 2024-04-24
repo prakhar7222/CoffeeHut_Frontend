@@ -7,7 +7,7 @@
 + Egg Roll: ₹159
 + Toasty Paneer Garlic Bread: ₹129
 + Chilli Cheese Toast: ₹109
-
++ Garlic bread: ₹45
 
 
 Updated list of user profiles and their discounts.
