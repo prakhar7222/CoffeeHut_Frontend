@@ -16,7 +16,7 @@ Daily: 25% off on coffee
 Monthly: 15% off on Coffee
 Quaterly: 5% 25% off on coffee
 Yearly: No discounts
-
+loyal: 30% off on all products
 
 
 
